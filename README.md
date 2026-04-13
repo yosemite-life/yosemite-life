@@ -8,10 +8,10 @@ Operated by [MountainsCalling.me LLC](https://mountainscalling.me) under a [Nati
 
 ## Guided Trips
 
-- [Guided Backpacking Trips](https://yosemite.life/backpacking/) — Multi-day wilderness trips through Yosemite's high country
-- [2026 Backpacking Trip Calendar](https://yosemite.life/2026-backpacking-trips/) — Open dates for the current season
-- [Half Dome Backpacking Trips](https://yosemite.life/half-dome-backpacking-trips/) — Summit Half Dome via the backcountry, not the day-hike crowds
-- [Private Day Hikes](https://yosemite.life/day-hikes/) — Custom guided day hikes for individuals, couples, and small groups
+- [Guided Backpacking Trips](https://yosemite.life/backpacking/): Multi-day wilderness trips through Yosemite's high country
+- [2026 Backpacking Trip Calendar](https://yosemite.life/2026-backpacking-trips/): Open dates for the current season
+- [Half Dome Backpacking Trips](https://yosemite.life/half-dome-backpacking-trips/): Summit Half Dome via the backcountry, not the day-hike crowds
+- [Private Day Hikes](https://yosemite.life/day-hikes/): Custom guided day hikes for individuals, couples, and small groups
 - [Book a Trip](https://yosemite.life/book-a-trip/)
 
 ## Trail Guides
@@ -37,10 +37,13 @@ Operated by [MountainsCalling.me LLC](https://mountainscalling.me) under a [Nati
 
 - [Clouds Rest Backpacking, April 2026](https://yosemite.life/articles/clouds-rest-backpacking-april-2026/)
 
-## More
+## Yosemite Stories
 
 - [The 1864 Yosemite Grant: A Document That Changed America](https://yosemite.life/articles/yosemite-grant-1864/)
 - [When Yosemite Becomes Part of Your Life](https://yosemite.life/articles/when-yosemite-becomes-part-of-your-life/)
+
+## About
+
 - [About Yosemite Life](https://yosemite.life/about/)
 - [About Eric Kufrin](https://yosemite.life/about-eric-kufrin/)
 - [FAQ](https://yosemite.life/faq/)
